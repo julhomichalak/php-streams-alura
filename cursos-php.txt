@@ -1,0 +1,2 @@
+Como o PHP funciona? - Conheça o OPcache | Dias de Dev
+fopen — Abre um arquivo ou URL
